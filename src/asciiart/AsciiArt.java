@@ -15,15 +15,46 @@ public class AsciiArt {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("_       _ ");
-        System.out.println("\\ \\   / /");
-        System.out.println(" \\ \\_/ /");
-        System.out.println(" /O + O\\");
-        System.out.println(" \\_____/");
-        System.out.println(" /     \\");
-        System.out.println("/\\_\\ /_/\\");
-        System.out.println("\\   _   /");
-        System.out.println("/_ / \\ _\\");
+        //small bunny
+        System.out.println("            _       _ ");
+        System.out.println("            \\ \\   / /");
+        System.out.println("             \\ \\_/ /");
+        System.out.println("             /O + O\\");
+        System.out.println("             \\_____/");
+        System.out.println("             /     \\");
+        System.out.println("            /\\_\\ /_/\\");
+        System.out.println("            \\   _   /");
+        System.out.println("            /_ / \\ _\\");
+        
+        //big bunny
+        System.out.println("        ___            ___");
+        System.out.println("       /   \\          /   \\");
+        System.out.println("       |   |          |   |");
+        System.out.println("       |   \\          /   |");
+        System.out.println("       \\    \\        /    /");
+        System.out.println("        \\   |        |   /");
+        System.out.println("        |   \\        /   |");
+        System.out.println("        \\\\   \\______/   //");
+        System.out.println("         \\_\\/        \\/_/");
+        System.out.println("         /              \\");
+        System.out.println("        /                \\");
+        System.out.println("        |                |");
+        System.out.println("        |   []      []   |");
+        System.out.println("         \\      *       /");
+        System.out.println("          \\_          _/ ");
+        System.out.println("         /              \\");
+        System.out.println("        /                \\");
+        System.out.println("       /                  \\");
+        System.out.println("       |  |   |    |   |  |");
+        System.out.println("      /   |   |    |   |   \\");
+        System.out.println("      |   |   |    |   |   |");
+        System.out.println("      |   \\___/    \\___/   |");
+        System.out.println("     / \\                  / \\");
+        System.out.println("    /                        \\");
+        System.out.println("    |                        |");
+        System.out.println("  _/        __________        \\_");
+        System.out.println(" /      ___/          \\___      \\");
+        System.out.println(" \\_____/                  \\_____/");
     }
     
 }
